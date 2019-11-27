@@ -1,0 +1,1 @@
+<?php require_once('content/post.php') ?>
